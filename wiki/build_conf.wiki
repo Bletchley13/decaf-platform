@@ -12,7 +12,7 @@
   # For the BFD library:
   sudo apt-get install binutils-dev
   # For the boost library:
-  sudo apt-get install libboost-dev
+  sudo apt-get install libboost-all-dev
   }}}
  # Configure&Make
   DECAF has three basic settings-TCG tainting, VMI, TCG IR logging. You can enable/disable at the configuration step. By default, VMI is enabled and TCG tainting and TCG IR logging is disabled. 
