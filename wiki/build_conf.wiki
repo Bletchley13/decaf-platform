@@ -43,7 +43,7 @@
 ==2. Create a new VM==
  While QEMU itself is compatible with almost any guest OS that runs on x86 hardware, DECAF requires more knowledge about the OS to bridge the semantic gap and provide information about OS abstractions like processes. DECAF currently supports Windows XP, Windows 7 and Linux, in order to use our tool, user has to have a working qemu image of the operating system. As how to make a qemu image,please see [http://people.gnome.org/~markmc/qcow-image-format.html QCOW2 image Format]. 
 
-It's very slow to install an image using QEMU. You can try VirtualBox to create a QCOW format virtual disk and install OS image. QEMU/DECAF can directly load that QCOW image without any modifications.
+ It's very slow to install an image using QEMU. You can try VirtualBox to create a QCOW format virtual disk and install OS image. QEMU/DECAF can directly load that QCOW image without any modifications.
 
 
  # If you have a vmdk image(used by vmware),you can convert it to qcow2 format by:
