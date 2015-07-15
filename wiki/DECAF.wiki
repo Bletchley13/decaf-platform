@@ -48,4 +48,5 @@ To reduce runtime overhead, the instrumentation code is inserted into the transl
 =5. [https://code.google.com/p/decaf-platform/wiki/decaf_interfaces DECAF interfaces]=
 
 =6. Trouble shooting=
+=7. [http://code.google.com/p/decaf-platform/wiki/DecafAutomation DECAF Automation]=
 If you have any other questions,please post them on [http://groups.google.com/group/decaf-platform-discuss Forum]
